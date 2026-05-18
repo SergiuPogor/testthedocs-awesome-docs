@@ -243,6 +243,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MkDocs](https://www.mkdocs.org/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Portray](https://github.com/timothycrosley/portray)
+- [Quarto](https://quarto.org/)
 - [Quartz](https://github.com/jackyzha0/quartz)
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
